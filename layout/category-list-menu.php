@@ -2,8 +2,7 @@
     <ul class="list-category">
         <li class="category-menu-item has-children">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Đại học - Cao đẳng
+                Sách văn học
             </a>
             <div class="category-menu-submenu">
                 <ul class="category-menu-submenu-tab">
@@ -111,57 +110,47 @@
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Khóa học bổ trợ
+                Sách kinh tế
             </a>
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Bồi dưỡng học sinh giỏi
-
+                Sách thiếu nhi
             </a>
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Khóa học cấp 1
-
+                Sách kỹ năng
             </a>
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Khóa học cấp 2
-
+                Sách kỹ năng làm cha mẹ
             </a>
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Khóa học cấp 3
-
+                Sách tham khảo
             </a>
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Luyện thi đại học
-
+                Sách ngoại ngữ
             </a>
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Luyện thi vào 10
-
+                Truyện tranh
             </a>
         </li>
         <li class="category-menu-item">
             <a class="category-menu-link" href="#">
-                <img src="/images/graduation.svg" alt="">
-                Luyện thi vào 6
-
+                Sách lịch sử
+            </a>
+        </li>
+        <li class="category-menu-item">
+            <a class="category-menu-link" href="#">
+                Giáo trình Đại Học
             </a>
         </li>
     </ul>

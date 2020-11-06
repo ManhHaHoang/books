@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>iCare</title>
+    <title>Nhà sách Nam Trung Yên - Trang lỗi</title>
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <link rel="icon" href="/images/favicon.png" sizes="16x16 32x32" type="image/png">
     <link rel="stylesheet" href="/assets/css/layout.css">
@@ -11,8 +11,6 @@
 <body>
     <?php include '/common/header.php';?>
     <?php include '/common/navigation.php';?>
-
-
     <div class="error404page">
         <article class="post" id="post-content">
             <style type="text/css">

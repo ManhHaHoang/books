@@ -2,7 +2,7 @@
     <div class="header-top is-desktop">
         <div class="site-w flex-box header-top-content">
             <div class="welcome-note">
-                Chào mừng bạn đến với <b>T-Simple</b>
+                Chào mừng bạn đến với <b>Nhà sách Nam Trung Yên</b>
             </div>
             <div class="header-social">
                 <a class="header-social-link" href="https://facebook.com" target="_blank">

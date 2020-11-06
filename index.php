@@ -1,5 +1,5 @@
 <?php include 'layout/head.php'?>
-<title>T-Simple - Học sáng tạo - chơi thông minh</title>
+<title>Nhà sách Nam Trung Yên</title>
 <link rel="stylesheet" href="/assets/css/slide.css?v=<?=$ver?>">
 <link rel="stylesheet" href="/assets/css/home.css?v=<?=$ver?>">
 </head>

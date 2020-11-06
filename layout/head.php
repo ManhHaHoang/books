@@ -13,4 +13,3 @@
 
     <link rel="stylesheet" href="/assets/css/slide.css?v=<?=$ver?>">
     <link rel="stylesheet" href="/assets/css/responsive.css?v=<?=$ver?>">
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet"> -->
