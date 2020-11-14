@@ -6,6 +6,7 @@
             <small></small>
         </span>
         <span>Dah mục sản phẩm</span>
+        <?php include 'layout/category-list-menu.php'; ?>
     </div>
     <ul class="navigation-list">
         <li class="navigation-item">

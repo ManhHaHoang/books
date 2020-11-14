@@ -1,10 +1,7 @@
 <section class="subscribe-wrapper">
     <div class="subscribe-box site-w">
         <div class="subscribe-heading">
-            Đăng ký nhận bản tin khuyến mãi từ T-Simple
-        </div>
-        <div class="subscribe-sub-heading">
-            Đừng bỏ lỡ những bài giảng, khóa học hấp dẫn
+            Đăng ký nhận bản tin khuyến mãi từ NTY Book
         </div>
         <form class="subscribe-from" action="/" method="post">
             <input type="text" class="form-control" name="e" placeholder="Vui lòng nhập email của bạn">
@@ -19,81 +16,52 @@
         <div class="site-w flex-box">
             <div class="box-logo-ft position-relative">
                 <a class="site-logo" href="/">
-                    <img src="/images/logo.svg" alt="T-Simple">
+                    <img src="/images/logo.png" alt="T-Simple">
                 </a>
             </div>
             <div class="box-footer">
+                <h3 class="title-ft">Hỗ trợ khách hàng</h3>
                 <ul class="content-ft">
                     <li>
-                        <a target="_blank" href="http://hocmai.vn/gioi-thieu">Giới thiệu</a>
+                        <a href="/">Các câu hỏi thường gặp</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://hocmai.vn/10th-year-anniversary/">Phòng truyền thống</a>
+                        <a href="/">Gửi yêu cầu hỗ trợ</a>
                     </li>
                     <li>
-                        <a target="_blank" href="http://hocmai.vn/hoc-sinh-tieu-bieu.html">Học sinh tiêu biểu</a>
+                        <a href="/">Hướng dẫn đặt hàng</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://hocmai.vn/giao-vien-noi-tieng.html">Giáo viên tiêu biểu</a>
+                        <a href="/">Phương thức vận chuyển</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://hocmai.vn/privacy2.php">Điều khoản chính sách</a>
+                        <a href="/">Chính sách đổi trả</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://hocmai.vn/tuyen-dung">Tuyển dụng</a>
+                        <a href="/">Hướng dẫn mua trả góp</a>
                     </li>
                 </ul>
             </div>
             <div class="box-footer">
-                <div class="title-ft">
-                    Chương trình học tiêu biểu
-                </div>
+                <h3 class="title-ft">Về Suplo Book</h3>
                 <ul class="content-ft">
                     <li>
-                        <a target="_blank" href="https://hocmai.vn/th-thcs/hoc-tot-2021-v3">Học tốt - Học toàn diện từ lớp 1-12</a>
+                        <a href="/">Giới thiệu</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://hocmai.vn/luyen-thi-dai-hoc/giai-phap-pen-2021">PEN - Luyện thi đại học</a>
+                        <a href="/">Tuyển Dụng</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://hocmai.vn/luyen-de-hm10-2020">HM10 - Luyện thi vào lớp 10</a>
+                        <a href="/">Chính sách bảo mật</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://hoctot2019.hocmai.vn/on-thi-vao-6">HM6 - Luyện thi vào lớp 6 CLC</a>
+                        <a href="/">Chính sách giải quyết khiếu nại</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://speakup.vn/">Speakup - Tiếng Anh Online 1 kèm 1</a>
+                        <a href="/">Điều khoản sử dụng</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://xiso.edu.vn/">Xiso - Trường học lập trình trực tuyến</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://hochay.edu.vn/">Học Hay - Ứng dụng học tập từ lớp 1-3</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="box-footer">
-                <div class="title-ft">
-                    Dịch vụ hỗ trợ học tập
-                </div>
-                <ul class="content-ft">
-                    <li>
-                        <a target="_blank" href="http://diendan.hocmai.vn/index.php">Diễn đàn học tập</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://hocmai.vn/kho-tai-lieu/">Thư viện học liệu</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://thituyensinh.hocmai.vn/">Thông tin tuyển sinh ĐH</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://blog.hocmai.vn/">Blog góc học sinh</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://hoctot.hocmai.vn/">Blog góc phụ huynh</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://hocmai.vn/kiem-tra-thi-thu/">Kiểm tra, thi thử</a>
+                        <a href="/">Hội Sách Online</a>
                     </li>
                 </ul>
             </div>
@@ -112,6 +80,14 @@
                         <a target="_blank" href="https://hocmai.vn/ho-tro/">Giải đáp thắc mắc</a>
                     </li>
                 </ul>
+                <h3 class="title-ft">
+                    Kết nối mạng xã hội
+                </h3>
+                <a href="https://www.facebook.com/SuploTeam/" target="_blank" class="fb-icon"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="https://twitter.com/" target="_blank" class="tw-icon"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="https://plus.google.com/" target="_blank" class="gg-icon"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                <a href="https://www.youtube.com/" target="_blank" class="yt-icon"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                <a href="https://www.instagram.com/" target="_blank" class="ins-icon"><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div>
         </div>
     </section>
@@ -147,7 +123,7 @@
                 <div class="form-group">
                     <label class="control-label password">Mật khẩu <span class="require-field">*</span></label>
                     <input type="password" name="password" class="form-control" autocomplete="off"
-                        placeholder="Mật khẩu">
+                    placeholder="Mật khẩu">
                     <div class="error-message error-password"></div>
                 </div>
             </div>
@@ -187,7 +163,7 @@
                 <div class="form-group">
                     <label class="control-label">Nhập lại mật khẩu <span class="require-field">*</span></label>
                     <input type="password" name="password_confirm" class="form-control" placeholder="Nhập lại mật khẩu"
-                        required="">
+                    required="">
                     <div class="error-message error-confirm-password"></div>
                 </div>
             </div>
@@ -215,22 +191,22 @@
         <form class="form-visible" id="ForgotPassword" role="form" method="post" action="">
             <div class="form-group">
                 <label class="control-label email" style="display: block"><b>Nhập số điện thoại của bạn hoặc email khôi
-                        phục</b> <span class="require-field">*</span></label>
-                <input name="email" type="email" class="form-control" autocomplete="off">
-                <div class="error-message error-email"></div>
-            </div>
-            <div class="login-box user-footer" style="padding-left: 0">
-                <button type="submit" class="button success">
-                    Gửi Yêu Cầu
-                </button>
-                <label for="user-signin" style="margin-left: 10px;"><span>Đăng nhập</span></label>
-            </div>
-        </form>
-        <span class="close-tab close-popup">
-            &times;
-        </span>
+                    phục</b> <span class="require-field">*</span></label>
+                    <input name="email" type="email" class="form-control" autocomplete="off">
+                    <div class="error-message error-email"></div>
+                </div>
+                <div class="login-box user-footer" style="padding-left: 0">
+                    <button type="submit" class="button success">
+                        Gửi Yêu Cầu
+                    </button>
+                    <label for="user-signin" style="margin-left: 10px;"><span>Đăng nhập</span></label>
+                </div>
+            </form>
+            <span class="close-tab close-popup">
+                &times;
+            </span>
+        </div>
+        <div class="login-popup-entry" onclick="closeLogin()"></div>
     </div>
-    <div class="login-popup-entry" onclick="closeLogin()"></div>
-</div>
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/script.js"></script>
+    <script src="/assets/js/jquery.js"></script>
+    <script src="/assets/js/script.js"></script>

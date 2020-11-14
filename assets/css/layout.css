@@ -7,7 +7,8 @@
 }
 
 :root {
-    --primary: #f3b01a;
+    --primary: #d51c24;
+    --primary-dk: #a9171d;
     --secondary: #038fb8;
     --light: #72cadf;
     --success: #18d26b;
@@ -76,19 +77,19 @@ figure {
 }
 
 a {
-    color: var(--secondary);
+    color: var(--primary);
     text-decoration: none;
     transition: all 350ms ease-in-out;
 }
 a:hover {
-    color: var(--primary);
+    color: var(--primary-dk);
     text-decoration: none;
     transition: all 350ms ease-in-out;
 }
 
 b,
 strong {
-    font-weight: 400
+    font-weight: 600
 }
 
 img {
@@ -684,8 +685,8 @@ input[type="checkbox"]:checked~small:before {
 }
 
 .login-button:hover {
-    background-color: var(--secondary);
-    border-color: var(--secondary);
+    background-color: var(--primary-dk);
+    border-color: var(--primary-dk);
 }
 
 .login-button img {

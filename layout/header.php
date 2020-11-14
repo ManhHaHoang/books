@@ -30,11 +30,11 @@
                 </span>
             </span>
             <a class="site-logo" href="/">
-                <img src="/images/logo.svg" alt="T-Simple">
+                <img src="/images/logo.png" alt="Nhà sách Nam Trung Yên">
             </a>
             <div class="main-search">
                 <form class="main-search-form" action="/" method="post">
-                    <input class="form-control" type="text" name="s" placeholder="Tìm kiếm bài giảng, video, giáo viên...">
+                    <input class="form-control" type="text" name="s" placeholder="Tìm kiếm hàng ngàn quyển sách, điều lý thú trong cuộc sống...">
                     <button class="button" type="submit">
                         <img src="/images/search.svg" alt="search">
                     </button>
@@ -47,10 +47,7 @@
                 </a>
                 <span class="action-item login-button flex-box align-c login">
                     <img class="login-icon" src="/images/login.svg" alt="">
-                    <span>Đăng nhập</span>
-                </span>
-                <span class="action-item register-button flex-box align-c register">
-                    <span>Đăng ký</span>
+                    <span>Tải khoản</span>
                 </span>
             </div>
             <span class="is-mobile search-icon header-icon">

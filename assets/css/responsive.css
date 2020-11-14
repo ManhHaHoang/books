@@ -28,24 +28,23 @@
 
     .category-menu-submenu {
         position: absolute;
-        top: -1px;
+        top: 0;
         min-height: 100%;
         width: calc(var(--left) * 3);
         left: 100%;
         background: var(--white);
         border: 1px solid #e1e1e1;
+        border-left: none;
         transition: all 350ms ease;
         z-index: -9;
         opacity: 0;
         visibility: hidden;
-        transform: translateX(20px);
     }
 
     .category-menu-item:hover .category-menu-submenu {
         z-index: 9;
         opacity: 1;
         visibility: visible;
-        transform: translateX(0);
     }
 
 }
